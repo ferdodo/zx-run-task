@@ -1,8 +1,12 @@
 {
   "name": "zx-run-task",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Task runner for zx scripts.",
   "main": "main.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferdodo/zx-run-task"
+  },
   "keywords": [
     "zx",
     "task",
