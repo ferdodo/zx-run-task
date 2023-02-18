@@ -1,0 +1,19 @@
+{
+  "name": "zx-run-task",
+  "version": "1.0.0",
+  "description": "Task runner for zx scripts.",
+  "main": "main.mjs",
+  "keywords": [
+    "zx",
+    "task",
+    "runner"
+  ],
+  "author": "Thomas Riffard",
+  "license": "MIT",
+  "dependencies": {
+    "spinnies": "^0.5.1"
+  },
+  "peerDependencies": {
+    "zx": "^7.1.1"
+  }
+}
