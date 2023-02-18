@@ -3,7 +3,7 @@
 Handle zx commands as tasks, which only displays spinners unless the task fails.
 
 ```js
-	import { runTask } from "zx-run-task";
+import { runTask } from "zx-run-task";
 
-	await runTask('Download example image', $`wget https://example.com/image.png`);
+await runTask('Download example image', $`wget https://example.com/image.png`);
 ```
